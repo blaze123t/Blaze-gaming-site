@@ -1,10 +1,13 @@
 body {
-    background-color: black;
-    color: white;
-    font-family: Arial;
-    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url("BLAZE GAMING LOGO.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 h1 {
     color: cyan;
+
 }
